@@ -1,11 +1,11 @@
 
 {
 
-    "name": "Leech Bot",
+    "name": "Hacker_Ks",
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/",
+    "repository": "https://github.com/Sachin12138/Uploadpw",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -31,19 +31,19 @@
 
         "BOT_TOKEN": {
 
-            "description": "Your Bot token from @Botfather"
+            "description": "7995877850:AAFhmy6B65_Q_GBZXz1NKj7ioarOOENHm_U"
 
         },
 
         "API_ID": {
 
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "29500466"
 
         },
 
         "API_HASH": {
 
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "97de63084b44bb7ca5ab11d1252fa098"
 
         }
 
